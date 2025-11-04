@@ -22,5 +22,3 @@ public class MyProfile {
         System.out.println("Programme     : Bachelor of Computer Science (Data Science)");
     }
 }
-
-  
